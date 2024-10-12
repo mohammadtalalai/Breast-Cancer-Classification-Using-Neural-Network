@@ -20,6 +20,4 @@ Breast cancer is one of the most common types of cancer affecting women worldwid
   <p>Pandas</p>
   <p>NumPy</p>
   <p>Sikit-Learn</p>
-  <p>MatplotLib</p>
-  <p>Seaborn</p>
 </ul>
